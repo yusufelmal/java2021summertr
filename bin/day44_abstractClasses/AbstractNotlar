@@ -1,0 +1,24 @@
+ABSTRACT
+
+1. parent classtaki body siz methodlara abstract metodlar denir.
+
+2. eğer child parentin metodunu kullanmak zorundaysa abstract hale getirilir.
+
+3. abstract klaslardan obje kreat edilemez.
+
+4. abstract bir metod ancak abstract bir klastan creat edilir.
+
+5. concrete classta asla bir abstract metod creat edilmez
+
+6. abstract bir klassta hem abstract hem de concrete metod olailir. 
+
+7. concrete klas abstract klasa extend edildiğinde abstract klastaki tüm abstract metodları implement etmek zorundadır. -uyarlamak- fakat concrete 
+metodları implement etmeyebilir.
+
+8. abstract class abstract klasa extend edildiğinde herhangi bir metodu override etmek zorunda değil. 
+
+9. final, private ve static classlar abstract olamaz. 
+
+10. abstract klasta abstract variable olamaz, concrete olabilir 
+
+11. 
